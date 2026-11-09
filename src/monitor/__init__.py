@@ -1,0 +1,1 @@
+"""Adaptive classroom noise monitor."""
